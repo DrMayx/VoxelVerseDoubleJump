@@ -1,0 +1,6 @@
+me\drmayx\voxeldoublejump\utilities\PlayerData.class
+me\drmayx\voxeldoublejump\voxelversedoublejump\VoxelVerseDoubleJump.class
+me\drmayx\voxeldoublejump\commands\DoubleJumpCommand.class
+me\drmayx\voxeldoublejump\utilities\Config.class
+me\drmayx\voxeldoublejump\listeners\DoubleJumpListener.class
+me\drmayx\voxeldoublejump\utilities\Utils.class

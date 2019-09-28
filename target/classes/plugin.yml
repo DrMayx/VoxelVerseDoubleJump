@@ -1,0 +1,20 @@
+name: VoxelVerseDoubleJump
+version: 1.0
+main: me.drmayx.voxeldoublejump.voxelversedoublejump.VoxelVerseDoubleJump
+api-version: 1.13
+prefix: VoxelVerseDoubleJump
+authors: [DrMayX]
+description: A plugin that allows you to double jump in minecraft
+
+commands:
+  doublejump:
+    description: Toggle doublejump.
+    usage: /<command>
+    aliases: [doublejump, dj, dd]
+permissions:
+  doublejump.jump:
+    description: Allow player to toggle double jumping.
+    default: op
+  doublejump.admin:
+    description: Admin tools for double jump plugin.
+    default: op
